@@ -1,0 +1,48 @@
+body{
+    background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.w{
+    color: white;
+    font-size: 40px;
+}
+h1{
+    color: white;
+    font-size: 70px;
+}
+.y h1 {
+    font-size: 60px;
+
+}
+.frm{
+    width: 50%
+}
+.y{
+    background-image: url("../res/images.jpg");
+    background-size : 100%;
+    padding-top: 12px;
+    height: 250px;
+    margin-bottom: 80px;
+
+
+}.k a{
+    padding-right: 10%; 
+    color : white;
+    font-size: 60px;
+    text-decoration: none;
+    display: inline;
+
+}
+.k a:hover {
+    color : red ;}
+
+ h1 {
+            position: relative;
+            top:50px;
+        }
+.nav-position{
+    margin-left:200px;
+}
